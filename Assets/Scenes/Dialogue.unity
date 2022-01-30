@@ -158,7 +158,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 500, y: 0}
-  m_SizeDelta: {x: 420, y: 602.5}
+  m_SizeDelta: {x: 856.5, y: 1024}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &28575251
 MonoBehaviour:
@@ -180,7 +180,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 724168791111515941, guid: 6b1dc00f4635d654dadef056a3ff8559, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 15b153cbf1a264501a6c419a37040f9b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -461,7 +461,6 @@ MonoBehaviour:
   contentTMP: {fileID: 2089020381}
   speaker: {fileID: 194103706}
   speakerbox: {fileID: 1768247088}
-  avatarImage: {fileID: 0}
   CTCAnimator: {fileID: 205198061}
   p1: {fileID: 1383199864}
   p2: {fileID: 28575251}
@@ -737,7 +736,7 @@ RectTransform:
   m_GameObject: {fileID: 1383199862}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.5, y: 2.5, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 922722960}
   m_RootOrder: 0
@@ -745,7 +744,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -500, y: 0}
-  m_SizeDelta: {x: 168, y: 241}
+  m_SizeDelta: {x: 494, y: 1024}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1383199864
 MonoBehaviour:
@@ -767,7 +766,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 724168791111515941, guid: 6b1dc00f4635d654dadef056a3ff8559, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 6f38649869c6e44cfb5e604f60350e01, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -956,7 +955,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: feafed7c66d9c4ca1850e703ec2b72e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogue: {fileID: 11400000, guid: 0918ac29f71ff40b19b9bc2bcffa5a3e, type: 2}
+  dialogue: {fileID: 11400000, guid: d2031d0fde02844bc8995dc2ba037bb1, type: 2}
   advanceKey: 32
   textbox: {fileID: 557377567}
 --- !u!4 &1931948309

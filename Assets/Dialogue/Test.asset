@@ -16,37 +16,37 @@ MonoBehaviour:
   entries:
   - speaker: Tester
     reversed: 0
-    avatar: {fileID: 724168791111515941, guid: 6b1dc00f4635d654dadef056a3ff8559, type: 3}
+    avatar: {fileID: 0}
     content: This is only a test
     useCPS: 0
     CPS: 0
   - speaker: Tester
     reversed: 1
-    avatar: {fileID: 724168791111515941, guid: 6b1dc00f4635d654dadef056a3ff8559, type: 3}
+    avatar: {fileID: 0}
     content: Are you sure this is a test?
     useCPS: 0
     CPS: 0
   - speaker: Tester
     reversed: 0
-    avatar: {fileID: 724168791111515941, guid: 6b1dc00f4635d654dadef056a3ff8559, type: 3}
+    avatar: {fileID: 21300000, guid: d38dfd76925d44c04ac5f325c130775e, type: 3}
     content: Yes I'm sure this is a test
     useCPS: 0
     CPS: 0
   - speaker: 
     reversed: 0
-    avatar: {fileID: 724168791111515941, guid: 6b1dc00f4635d654dadef056a3ff8559, type: 3}
+    avatar: {fileID: -818254366374850665, guid: 6b1dc00f4635d654dadef056a3ff8559, type: 3}
     content: Inner Dialogue..............
     useCPS: 0
     CPS: 0
   - speaker: Tester
     reversed: 0
-    avatar: {fileID: 724168791111515941, guid: 6b1dc00f4635d654dadef056a3ff8559, type: 3}
+    avatar: {fileID: 21300000, guid: 2134816cfcef64075bf3743af795b872, type: 3}
     content: Now you've got me thinking this isn't a test
     useCPS: 0
     CPS: 0
   - speaker: Tester
     reversed: 1
-    avatar: {fileID: 724168791111515941, guid: 6b1dc00f4635d654dadef056a3ff8559, type: 3}
+    avatar: {fileID: 21300000, guid: 98920482df590470cb993aebda663e04, type: 3}
     content: Glad to have been of assistance.
     useCPS: 0
     CPS: 0

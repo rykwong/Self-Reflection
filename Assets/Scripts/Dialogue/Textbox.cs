@@ -11,7 +11,6 @@ public class Textbox : MonoBehaviour
     [SerializeField] TextMeshProUGUI contentTMP;
     [SerializeField] TextMeshProUGUI speaker;
     [SerializeField] Image speakerbox;
-    [SerializeField] Image avatarImage;
     [SerializeField] Animator CTCAnimator;
     [SerializeField] Image p1;
     [SerializeField] Image p2;
@@ -75,7 +74,6 @@ public class Textbox : MonoBehaviour
         CTCAnimator.SetBool("Hidden", true);
 
         // Update speaker
-        //avatarImage.sprite = avatarSprite;
         speakerbox.gameObject.SetActive(speakerText != "");
         speaker.text = speakerText;
         speaker.transform.localScale = reversed ? new Vector3(-1,1,1) : new Vector3(1, 1, 1);
@@ -87,10 +85,21 @@ public class Textbox : MonoBehaviour
         }
         else
         {
+            if(avatarSprite != null)
+            {
+                if (reversed)
+                {
+                    p2.sprite = avatarSprite;
+                }
+                else
+                {
+                    p1.sprite = avatarSprite;
+                }
+            }
             p1.color = reversed ? new Color(1, 1, 1, 0.5f) : Color.white;
             p2.color = reversed ? Color.white: new Color(1, 1, 1, 0.5f) ;
         }
-
+        
         // Update dialogue content text.
         // If typewriting effect is enabled...
         if (CPS > 0)
