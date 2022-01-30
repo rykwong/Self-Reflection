@@ -958,7 +958,6 @@ MonoBehaviour:
   dialogue: {fileID: 11400000, guid: c7f5a3b406c131642aad5a09931c964c, type: 2}
   advanceKey: 32
   textbox: {fileID: 557377567}
-  scene: 
 --- !u!4 &1931948309
 Transform:
   m_ObjectHideFlags: 0

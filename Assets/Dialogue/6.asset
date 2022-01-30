@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7dda9ac5737db46fc90b8b3c30191d7e, type: 3}
+  m_Name: 6
+  m_EditorClassIdentifier: 
+  CPS: 30
+  entries:
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: Now what?
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: edec1f59f8d74408daf2dfa4e6959010, type: 3}
+    content: "Hey, there you are. Wow, it\u2019s weird seeing you up close like this."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: cab4fe0551cc7400a904628622db59dc, type: 3}
+    content: "Shut up. I\u2019m asking what do we do now?"
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 6f38649869c6e44cfb5e604f60350e01, type: 3}
+    content: What do you mean?
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: After this.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: "I\u2019m still scared."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: "I\u2019m scared that we\u2019re just not good enough. That we\u2019ll
+      never make it. That we just don\u2019t deserve to be happy."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 6f38649869c6e44cfb5e604f60350e01, type: 3}
+    content: "We don\u2019t have to do anything to deserve to be happy. We always
+      deserve to be happy."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 6f38649869c6e44cfb5e604f60350e01, type: 3}
+    content: "As for what to do\u2026we\u2019ll take it step by step. We\u2019ll
+      do our best. It may not always get the job done, but it\u2019s our best and
+      that\u2019s good enough."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 98920482df590470cb993aebda663e04, type: 3}
+    content: Thanks. That makes me feel a bit better. But just a bit.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: edec1f59f8d74408daf2dfa4e6959010, type: 3}
+    content: "A bit is good enough. That\u2019ll be our first step."
+    useCPS: 0
+    CPS: 0

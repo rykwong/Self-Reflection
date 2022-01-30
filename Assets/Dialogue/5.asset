@@ -1,0 +1,237 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7dda9ac5737db46fc90b8b3c30191d7e, type: 3}
+  m_Name: 5
+  m_EditorClassIdentifier: 
+  CPS: 30
+  entries:
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: And this time, the chest held a piece of paper
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: "I picked it up with both hands and noticed that it had my elementary
+      school\u2019s logo on it."
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: Turning it around, I saw that it was a report card...
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: And on it, front and center...
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: ...were the grades from my last semester in college.
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: "All F\u2019s"
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 15b153cbf1a264501a6c419a37040f9b, type: 3}
+    content: Ha! So you came all this way and now it comes full circle.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 15b153cbf1a264501a6c419a37040f9b, type: 3}
+    content: You failed your classes and you know it. Nothing else to say, nothing
+      else to do.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 2134816cfcef64075bf3743af795b872, type: 3}
+    content: ...
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 15b153cbf1a264501a6c419a37040f9b, type: 3}
+    content: "What? Not gonna wax poetic about how the grades don\u2019t matter and
+      you\u2019re happy anyways or some garbage like that?"
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 2134816cfcef64075bf3743af795b872, type: 3}
+    content: No.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 15b153cbf1a264501a6c419a37040f9b, type: 3}
+    content: Hm?
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 2134816cfcef64075bf3743af795b872, type: 3}
+    content: "I don\u2019t know what I\u2019m doing. You\u2019re right, I failed.
+      There\u2019s nothing else to say."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 2134816cfcef64075bf3743af795b872, type: 3}
+    content: Sorry I wasted your time.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 15b153cbf1a264501a6c419a37040f9b, type: 3}
+    content: ...
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: ...
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: She lets out a sigh.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: "You didn\u2019t waste my time, alright?"
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: It was a rough semester. You were really going through it and you had
+      a lot on your plate.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 2134816cfcef64075bf3743af795b872, type: 3}
+    content: ...
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: "I\u2019m just scared alright?"
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: "I\u2019m scared. I\u2019m really scared."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: "I\u2019m scared that we\u2019re just not good enough. I\u2019m scared
+      that we\u2019ll get hurt. I\u2019m scared of a lot of things."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: "I just thought that maybe if I was just really hard on you, that somehow
+      things would work out, y\u2019know? That maybe we were just doing something
+      wrong."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 2134816cfcef64075bf3743af795b872, type: 3}
+    content: I was trying really hard.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: "I know. You always do, Eve. I\u2019m sorry."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 2134816cfcef64075bf3743af795b872, type: 3}
+    content: ...
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: And I know you may not forgive me. You probably hate me for always putting
+      you down all the time and-
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 6f38649869c6e44cfb5e604f60350e01, type: 3}
+    content: I forgive you.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: What?
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 6f38649869c6e44cfb5e604f60350e01, type: 3}
+    content: "I forgive you. We were scared. There\u2019s a lot of things that have
+      happened that made us this way."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: Why? Why would you want to forgive me?
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 6f38649869c6e44cfb5e604f60350e01, type: 3}
+    content: "We wouldn\u2019t get anywhere with just punishing ourselves and being
+      even harder on ourselves."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: ...
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: edec1f59f8d74408daf2dfa4e6959010, type: 3}
+    content: "Come on, we\u2019re almost out of here."
+    useCPS: 0
+    CPS: 0

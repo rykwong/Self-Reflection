@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7dda9ac5737db46fc90b8b3c30191d7e, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  CPS: 30
+  entries:
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: I look into the chest.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: What is it this time?
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: "Inside I find\u2026"
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 6f38649869c6e44cfb5e604f60350e01, type: 3}
+    content: Poorly made macaroni art?
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: It looks to be a giraffe.
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: Elephant?
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: Turtle?
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: Creature?
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: edec1f59f8d74408daf2dfa4e6959010, type: 3}
+    content: "Wait, that\u2019s my poorly made macaroni art!"
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 15b153cbf1a264501a6c419a37040f9b, type: 3}
+    content: Wow, glad we could come all this way so you could find some old pieces
+      of macaroni glued to construction paper.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: edec1f59f8d74408daf2dfa4e6959010, type: 3}
+    content: I remember I was so proud of this when I made it.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: edec1f59f8d74408daf2dfa4e6959010, type: 3}
+    content: I worked so hard on it.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 15b153cbf1a264501a6c419a37040f9b, type: 3}
+    content: Atleast someone was proud of it, I guess.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: edec1f59f8d74408daf2dfa4e6959010, type: 3}
+    content: "I knew it wasn\u2019t great, but I tried so hard and I was so happy
+      that I had actually made it."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 15b153cbf1a264501a6c419a37040f9b, type: 3}
+    content: Your Giraphanturtle thing?
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: edec1f59f8d74408daf2dfa4e6959010, type: 3}
+    content: "Hey come on, it\u2019s not that bad."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: cab4fe0551cc7400a904628622db59dc, type: 3}
+    content: "It\u2019s an abomination."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: edec1f59f8d74408daf2dfa4e6959010, type: 3}
+    content: I happen to think it actually looks kind of cute.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 15b153cbf1a264501a6c419a37040f9b, type: 3}
+    content: "Like \u201CUgly Cute\u201D or\u2026?"
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: d38dfd76925d44c04ac5f325c130775e, type: 3}
+    content: "You don\u2019t always have to be such a jerk, you know."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 15b153cbf1a264501a6c419a37040f9b, type: 3}
+    content: "Come on, I\u2019m doing you a favor, Eve. Why does this garbage mean
+      so much to you anyway?"
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: cab4fe0551cc7400a904628622db59dc, type: 3}
+    content: "The macaroni art is bad, there I said it. You could\u2019ve done better.
+      Why do you care so much about something you made that isn\u2019t even good?"
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: d38dfd76925d44c04ac5f325c130775e, type: 3}
+    content: "Why do you care so much that it\u2019s bad?"
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: cab4fe0551cc7400a904628622db59dc, type: 3}
+    content: "I just don\u2019t see any reason to care about work you do if you can\u2019t
+      make it perfect."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: d38dfd76925d44c04ac5f325c130775e, type: 3}
+    content: "Maybe it doesn\u2019t need to be perfect. It meant a lot to me and
+      I did my best, alright?"
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: cab4fe0551cc7400a904628622db59dc, type: 3}
+    content: ...
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: "Let\u2019s just hurry up and get to the next chest."
+    useCPS: 0
+    CPS: 0

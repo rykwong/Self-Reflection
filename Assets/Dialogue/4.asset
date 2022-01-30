@@ -1,0 +1,207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7dda9ac5737db46fc90b8b3c30191d7e, type: 3}
+  m_Name: 4
+  m_EditorClassIdentifier: 
+  CPS: 30
+  entries:
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: "As soon as the chest opens, there\u2019s a flash of light and the sky
+      is filled with dozens of stars."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: "Is that\u2026?"
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: edec1f59f8d74408daf2dfa4e6959010, type: 3}
+    content: No way! My old star projector!
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: "Before I can think about it, I\u2019ve already sat down and I\u2019m
+      looking up at the stars."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: edec1f59f8d74408daf2dfa4e6959010, type: 3}
+    content: "I used to never be able to sleep if this thing wasn\u2019t on! I always
+      used to fall asleep looking at all the stars on the ceiling!"
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: Back when you wanted to be an astronaut, right?
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: edec1f59f8d74408daf2dfa4e6959010, type: 3}
+    content: Yeah! And I would always run around the house telling mom and dad that
+      someday it was going to be me up there on the moon!
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: What ever happened to this old thing?
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 2134816cfcef64075bf3743af795b872, type: 3}
+    content: I stopped looking at the stars and looked down at the ground.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: What? I just asked a question.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 6f38649869c6e44cfb5e604f60350e01, type: 3}
+    content: Mom threw it away, remember?
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 6f38649869c6e44cfb5e604f60350e01, type: 3}
+    content: "She said it was a waste of time. I needed to start \u201Ctaking school
+      seriously\u201D."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 6f38649869c6e44cfb5e604f60350e01, type: 3}
+    content: "Focus on a \u201Crealistic\u201D job. "
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 6f38649869c6e44cfb5e604f60350e01, type: 3}
+    content: Stop wasting all my time on these toys.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: "I mean she wasn\u2019t really wrong."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: d38dfd76925d44c04ac5f325c130775e, type: 3}
+    content: It was cruel!
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: cab4fe0551cc7400a904628622db59dc, type: 3}
+    content: It was a waste of time! Come on, you were never going to be an astronaut,
+      and you know it.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: d38dfd76925d44c04ac5f325c130775e, type: 3}
+    content: Maybe I could have been!
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 15b153cbf1a264501a6c419a37040f9b, type: 3}
+    content: Sure! And maybe you could have been a comedian too, with jokes like
+      that!
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: d38dfd76925d44c04ac5f325c130775e, type: 3}
+    content: Yeah, and maybe I could have!
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: d38dfd76925d44c04ac5f325c130775e, type: 3}
+    content: Better than ending up spending all my time doing something I hate, just
+      to appease mom and dad.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: cab4fe0551cc7400a904628622db59dc, type: 3}
+    content: So, what? You wanted to sit there being lazy and wasting all your time?
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: d38dfd76925d44c04ac5f325c130775e, type: 3}
+    content: Lazy!?
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 0}
+    content: "I was a child! We were just a child! She had no right to do that! How
+      is it lazy to have fun as a kid? How is it lazy to have fun now!? What\u2019s
+      the point of doing whatever they say if I\u2019m miserable?"
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: cab4fe0551cc7400a904628622db59dc, type: 3}
+    content: I mean-
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: d38dfd76925d44c04ac5f325c130775e, type: 3}
+    content: "You\u2019re miserable! You\u2019re miserable and you know it!"
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: ...
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: I pick myself up off the ground and start walking.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: d38dfd76925d44c04ac5f325c130775e, type: 3}
+    content: "Whatever, let\u2019s get going."
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: And as I turned away, I could have sworn that I saw her looking up at
+      the stars.
+    useCPS: 0
+    CPS: 0
