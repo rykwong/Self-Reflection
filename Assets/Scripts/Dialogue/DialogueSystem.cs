@@ -10,6 +10,7 @@ public class DialogueSystem : MonoBehaviour
     [SerializeField] Dialogue dialogue;
     [SerializeField] KeyCode advanceKey = KeyCode.Space;
     [SerializeField] Textbox textbox;
+    
 
     // State variables
     int entryIndex = 0;
@@ -47,6 +48,7 @@ public class DialogueSystem : MonoBehaviour
             DialogueEntry dialogueEntry = dialogue.entries[entryIndex];
 
             // Update the textbox properties
+            textbox.setAvatar(dialogueEntry.avatar);
             textbox.setSpeaker(dialogueEntry.speaker);
             textbox.setText(dialogueEntry.content);
             textbox.setReverse(dialogueEntry.reversed);

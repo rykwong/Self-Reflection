@@ -16,31 +16,37 @@ MonoBehaviour:
   entries:
   - speaker: Tester
     reversed: 0
+    avatar: {fileID: 724168791111515941, guid: 6b1dc00f4635d654dadef056a3ff8559, type: 3}
     content: This is only a test
     useCPS: 0
     CPS: 0
   - speaker: Tester
     reversed: 1
+    avatar: {fileID: 724168791111515941, guid: 6b1dc00f4635d654dadef056a3ff8559, type: 3}
     content: Are you sure this is a test?
     useCPS: 0
     CPS: 0
   - speaker: Tester
     reversed: 0
+    avatar: {fileID: 724168791111515941, guid: 6b1dc00f4635d654dadef056a3ff8559, type: 3}
     content: Yes I'm sure this is a test
     useCPS: 0
     CPS: 0
   - speaker: 
     reversed: 0
+    avatar: {fileID: 724168791111515941, guid: 6b1dc00f4635d654dadef056a3ff8559, type: 3}
     content: Inner Dialogue..............
     useCPS: 0
     CPS: 0
   - speaker: Tester
     reversed: 0
+    avatar: {fileID: 724168791111515941, guid: 6b1dc00f4635d654dadef056a3ff8559, type: 3}
     content: Now you've got me thinking this isn't a test
     useCPS: 0
     CPS: 0
   - speaker: Tester
     reversed: 1
+    avatar: {fileID: 724168791111515941, guid: 6b1dc00f4635d654dadef056a3ff8559, type: 3}
     content: Glad to have been of assistance.
     useCPS: 0
     CPS: 0

@@ -7,6 +7,7 @@ public class DialogueEntry
 {
     public string speaker;
     public bool reversed;
+    public Sprite avatar;
 
     // Content-related
     [TextArea(5, 5)] 

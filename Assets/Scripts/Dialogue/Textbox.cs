@@ -11,6 +11,7 @@ public class Textbox : MonoBehaviour
     [SerializeField] TextMeshProUGUI contentTMP;
     [SerializeField] TextMeshProUGUI speaker;
     [SerializeField] Image speakerbox;
+    [SerializeField] Image avatarImage;
     [SerializeField] Animator CTCAnimator;
     [SerializeField] Image p1;
     [SerializeField] Image p2;
@@ -19,12 +20,17 @@ public class Textbox : MonoBehaviour
     string speakerText;
     string contentText;
     int CPS;
+    Sprite avatarSprite;
     bool reversed;
 
     int totalCharacters;
     int i;
 
     // Updates the avatar image to show
+    public void setAvatar(Sprite avatar)
+    {
+        this.avatarSprite = avatar;
+    }
     public void setSpeaker(string speaker)
     {
         this.speakerText = speaker;
@@ -69,6 +75,7 @@ public class Textbox : MonoBehaviour
         CTCAnimator.SetBool("Hidden", true);
 
         // Update speaker
+        //avatarImage.sprite = avatarSprite;
         speakerbox.gameObject.SetActive(speakerText != "");
         speaker.text = speakerText;
         speaker.transform.localScale = reversed ? new Vector3(-1,1,1) : new Vector3(1, 1, 1);
