@@ -11,15 +11,27 @@ public class LevelManager : MonoBehaviour
     [SerializeField] private PlayerController p2;
     [SerializeField] private DialogueSystem system;
     [SerializeField] private Dialogue dialogue;
+    [SerializeField] private bool ending;
     private bool triggered;
 
     public void checkKey()
     {
         Debug.Log("Checking Key");
-        if (k1.done && k2.done && p1.chestActive && p2.chestActive && !triggered)
+        if(!ending)
         {
-            triggered = true;
-            triggerDialogue();
+            if (k1.done && k2.done && p1.chestActive && p2.chestActive && !triggered)
+            {
+                triggered = true;
+                triggerDialogue();
+            }
+        }
+        else
+        {
+            if (p1.chestActive && p2.chestActive && !triggered)
+            {
+                triggered = true;
+                triggerDialogue();
+            }
         }
     }
 

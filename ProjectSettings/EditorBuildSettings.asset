@@ -6,14 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Movement.unity
-    guid: 21346ea4d59464aaf832ae4ce5a948a5
+    path: Assets/Scenes/Main Menu.unity
+    guid: c73d67f263c8441cf94f9fad429f2082
   - enabled: 1
-    path: Assets/Scenes/Dialogue.unity
-    guid: 06359f928028443af8a480cb806625f4
+    path: Assets/Scenes/Credits.unity
+    guid: d58da59e45e014a50981f153b9cf5e80
   - enabled: 1
-    path: Assets/Scenes/KL_FINAL LEVEL.unity
-    guid: bda243efd79874b5a8b98edbd1280d59
+    path: Assets/Scenes/Prologue.unity
+    guid: 32966658641774fe68d80a385136a28f
   - enabled: 1
     path: Assets/Scenes/KL_LEVEL_001.unity
     guid: 44d99666057d54e80b78eab0bd2d53b8
@@ -26,4 +26,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/KL_LEVEL_004.unity
     guid: 8db1fa0c12324435f80778932bb32a24
+  - enabled: 1
+    path: Assets/Scenes/KL_FINAL LEVEL.unity
+    guid: bda243efd79874b5a8b98edbd1280d59
+  - enabled: 1
+    path: Assets/Scenes/Epilogue.unity
+    guid: 06359f928028443af8a480cb806625f4
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 79ae021f1d47747deb2ae17a0527606b
   m_configObjects: {}
