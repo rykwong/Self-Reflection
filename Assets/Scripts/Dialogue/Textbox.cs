@@ -80,8 +80,8 @@ public class Textbox : MonoBehaviour
 
         if (speakerText == "")
         {
-            p1.color = new Color(1, 1, 1, 0.5f) ;
-            p2.color = new Color(1, 1, 1, 0.5f) ;
+            if(p1.sprite) p1.color = new Color(1, 1, 1, 0.5f) ;
+            if(p2.sprite) p2.color = new Color(1, 1, 1, 0.5f) ;
         }
         else
         {
@@ -95,9 +95,10 @@ public class Textbox : MonoBehaviour
                 {
                     p1.sprite = avatarSprite;
                 }
+
             }
-            p1.color = reversed ? new Color(1, 1, 1, 0.5f) : Color.white;
-            p2.color = reversed ? Color.white: new Color(1, 1, 1, 0.5f) ;
+            if(p1.sprite) p1.color = reversed ? new Color(1, 1, 1, 0.5f) : Color.white;
+            if(p2.sprite) p2.color = reversed ? Color.white: new Color(1, 1, 1, 0.5f) ;
         }
         
         // Update dialogue content text.
