@@ -2,7 +2,6 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using TMPro;
 
 public class DialogueSystem : MonoBehaviour
 {
@@ -10,13 +9,17 @@ public class DialogueSystem : MonoBehaviour
     [SerializeField] Dialogue dialogue;
     [SerializeField] KeyCode advanceKey = KeyCode.Space;
     [SerializeField] Textbox textbox;
+    [SerializeField] private string scene;
     
 
     // State variables
     int entryIndex = 0;
+    SceneTransitions sceneTransitions;
+    private bool displayingDialogue;
 
     private void Start()
     {
+        sceneTransitions = GameObject.Find("LevelTransition").GetComponent<SceneTransitions>();
         if (dialogue)
              QueueDialogue(dialogue);
     }
@@ -31,6 +34,7 @@ public class DialogueSystem : MonoBehaviour
     // Queue a dialogue to be displayed
     public void QueueDialogue(Dialogue dialogue)
     {
+        if (displayingDialogue) return;
         this.dialogue = dialogue; 
         this.entryIndex = 0;  
         
@@ -41,7 +45,7 @@ public class DialogueSystem : MonoBehaviour
     private IEnumerator DisplayDialogue()
     {
         SetTextboxVisibility(true);
-
+        displayingDialogue = true;
         while (true)
         {
             // Get the dialogue entry
@@ -69,9 +73,11 @@ public class DialogueSystem : MonoBehaviour
                 break;                
         }
 
+        displayingDialogue = false;
         // Clear and hide the textbox
         textbox.Clear();
         SetTextboxVisibility(false);
+        sceneTransitions.LoadTransition(scene);
     }
 
     // Set the visibility of the textbox

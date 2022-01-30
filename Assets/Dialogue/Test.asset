@@ -14,15 +14,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CPS: 30
   entries:
-  - speaker: Tester
+  - speaker: 
     reversed: 0
     avatar: {fileID: 0}
+    content: You found an item in the chest
+    useCPS: 0
+    CPS: 0
+  - speaker: Tester
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 6f38649869c6e44cfb5e604f60350e01, type: 3}
     content: This is only a test
     useCPS: 0
     CPS: 0
   - speaker: Tester
     reversed: 1
-    avatar: {fileID: 0}
+    avatar: {fileID: 21300000, guid: 15b153cbf1a264501a6c419a37040f9b, type: 3}
     content: Are you sure this is a test?
     useCPS: 0
     CPS: 0
