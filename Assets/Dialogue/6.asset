@@ -23,7 +23,7 @@ MonoBehaviour:
   - speaker: Eve
     reversed: 0
     avatar: {fileID: 21300000, guid: edec1f59f8d74408daf2dfa4e6959010, type: 3}
-    content: "Hey, there you are. Wow, it\u2019s weird seeing you up close like this."
+    content: Hey, there you are. Haven't seen you like this in a minute.
     useCPS: 0
     CPS: 0
   - speaker: Eve
