@@ -13,4 +13,195 @@ MonoBehaviour:
   m_Name: 1
   m_EditorClassIdentifier: 
   CPS: 30
-  entries: []
+  entries:
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: "There I sat, in my dimly lit room\u2026illluminated solely by the cheap
+      desk lamp mom got me before I went off to uni, and the display of my computer
+      monitor"
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: "I\u2019d always felt that no matter how much I adjusted the brightness
+      of the monitor, I never could get it to be very bright at all."
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: "But right now it was like a prison guard\u2019s spotlight. Shining
+      straight on me, sure to let me know that I had been found. There was no running
+      anymore and there\u2019s no escaping the truth."
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: "There on the monitor\u2026"
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: ...were my grades for last semester.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 2134816cfcef64075bf3743af795b872, type: 3}
+    content: Every class?
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: I know it was a rough semester, but I really never thought this would
+      happen to me.
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: "I can\u2019t deal with this right now."
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: I shut off my computer and just sit there for a moment.
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: My desk lamp gives just enough brightness for me to see her face in
+      the monitor.
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: Always right on time.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 15b153cbf1a264501a6c419a37040f9b, type: 3}
+    content: Whoa, Eve! Every class!? Now knowing you, I knew a failure was coming
+      sometime or another, but you really managed to exceed my expectations for once!
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 6f38649869c6e44cfb5e604f60350e01, type: 3}
+    content: ...
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: I get up from the chair at my desk and walk over to my bed. I sit down
+      and just sink into it a little.
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: I just sit there staring at the floor for a bit.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 6f38649869c6e44cfb5e604f60350e01, type: 3}
+    content: ...
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: I take a deep breath and lift my head up, looking straight across to
+      the mirror in my room.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: d38dfd76925d44c04ac5f325c130775e, type: 3}
+    content: Why do you always do this to me?
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 15b153cbf1a264501a6c419a37040f9b, type: 3}
+    content: "Whoa! Don\u2019t look too hard! With a face like that, you might just
+      break our only mirror!"
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 6f38649869c6e44cfb5e604f60350e01, type: 3}
+    content: Answer the question.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 15b153cbf1a264501a6c419a37040f9b, type: 3}
+    content: Huh?
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: d38dfd76925d44c04ac5f325c130775e, type: 3}
+    content: "Why do you always do this to me? Why don\u2019t you just leave me alone?
+      Why won\u2019t you just let me be happy?"
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: What have you ever done to deserve to be happy?
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: d38dfd76925d44c04ac5f325c130775e, type: 3}
+    content: "Everything! I\u2019ve done everything I\u2019m supposed to do! I\u2019ve
+      worked my ass off for years and years pushing myself to do the best I possibly
+      can."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: "Wow..you\u2019ve done what you\u2019re supposed to do. You want praise
+      for doing things you\u2019re required to do?"
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 2134816cfcef64075bf3743af795b872, type: 3}
+    content: "I don\u2019t know! I just\u2026."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: d38dfd76925d44c04ac5f325c130775e, type: 3}
+    content: "Why can\u2019t you just work with me for once?"
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 15b153cbf1a264501a6c419a37040f9b, type: 3}
+    content: "Ha! Based on your last semester, I don\u2019t think working with you
+      will turn out too well."
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 6f38649869c6e44cfb5e604f60350e01, type: 3}
+    content: I sat there staring at the mirror. Taking a deep breath again, I closed
+      my eyes.
+    useCPS: 0
+    CPS: 0

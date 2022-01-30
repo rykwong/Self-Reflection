@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7dda9ac5737db46fc90b8b3c30191d7e, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  CPS: 30
+  entries:
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: When the large chest opens, it looks empty.
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: Almost empty.
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: All except for what looks to be a single photograph sitting at the bottom.
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: I reach in and grab it.
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: "It\u2019s a photo of a smiling family."
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: "Looking at it, I almost don\u2019t recognize the little girl in the
+      front of the photo."
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: "She\u2019s so small compared to everyone else in the photo."
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: "But she\u2019s got the biggest smile in the picture."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 6f38649869c6e44cfb5e604f60350e01, type: 3}
+    content: It's me...
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 15b153cbf1a264501a6c419a37040f9b, type: 3}
+    content: Glad you told me! Geez, what happened? Talk about a glow down. Dim down?
+      Whatever.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 2134816cfcef64075bf3743af795b872, type: 3}
+    content: "I can\u2019t think of the last time I really smiled like this in a
+      photo."
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 98920482df590470cb993aebda663e04, type: 3}
+    content: With a face like that, I can.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: d38dfd76925d44c04ac5f325c130775e, type: 3}
+    content: You have the same face I do!
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 15b153cbf1a264501a6c419a37040f9b, type: 3}
+    content: "I know, I know, don\u2019t remind me."
+    useCPS: 0
+    CPS: 0
+  - speaker: 
+    reversed: 0
+    avatar: {fileID: 0}
+    content: I just stand there for a bit, looking at the photo.
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 2134816cfcef64075bf3743af795b872, type: 3}
+    content: "It didn\u2019t really used to matter, you know\u2026"
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 0
+    avatar: {fileID: 21300000, guid: 2134816cfcef64075bf3743af795b872, type: 3}
+    content: How I looked, I mean
+    useCPS: 0
+    CPS: 0
+  - speaker: Eve
+    reversed: 1
+    avatar: {fileID: 21300000, guid: 66e1a38f7076f4999899ed8ff243980c, type: 3}
+    content: ...
+    useCPS: 0
+    CPS: 0

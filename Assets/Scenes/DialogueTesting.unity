@@ -461,7 +461,6 @@ MonoBehaviour:
   contentTMP: {fileID: 2089020381}
   speaker: {fileID: 194103706}
   speakerbox: {fileID: 1768247088}
-  avatarImage: {fileID: 0}
   CTCAnimator: {fileID: 205198061}
   p1: {fileID: 1383199864}
   p2: {fileID: 28575251}
@@ -956,7 +955,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: feafed7c66d9c4ca1850e703ec2b72e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogue: {fileID: 11400000, guid: 0918ac29f71ff40b19b9bc2bcffa5a3e, type: 2}
+  dialogue: {fileID: 11400000, guid: c7f5a3b406c131642aad5a09931c964c, type: 2}
   advanceKey: 32
   textbox: {fileID: 557377567}
 --- !u!4 &1931948309
