@@ -10,13 +10,13 @@ public class DialogueSystem : MonoBehaviour
     [SerializeField] KeyCode advanceKey = KeyCode.Space;
     [SerializeField] Textbox textbox;
     [SerializeField] private string scene;
+    [SerializeField] private int track;
     
 
     // State variables
     int entryIndex = 0;
     SceneTransitions sceneTransitions;
     private bool displayingDialogue;
-
     private void Start()
     {
         sceneTransitions = GameObject.Find("LevelTransition").GetComponent<SceneTransitions>();
@@ -37,7 +37,7 @@ public class DialogueSystem : MonoBehaviour
         if (displayingDialogue) return;
         this.dialogue = dialogue; 
         this.entryIndex = 0;  
-        
+        GameObject.Find("AudioManager").GetComponent<AudioManager>().PlayMusic(track);
         StartCoroutine(DisplayDialogue());
     }
 

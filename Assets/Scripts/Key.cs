@@ -10,7 +10,7 @@ public class Key : MonoBehaviour
 
     public void Enable()
     {
-        GetComponent<Image>().sprite = item.GetComponent<SpriteRenderer>().sprite;
+        GetComponent<Image>().color = Color.white;
         item.GetComponent<Destroy>().destroyObject();
         done = true;
     }

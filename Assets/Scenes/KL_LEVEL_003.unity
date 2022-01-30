@@ -20190,6 +20190,10 @@ PrefabInstance:
       propertyPath: scene
       value: KL_LEVEL_004
       objectReference: {fileID: 0}
+    - target: {fileID: 1584228644670079300, guid: ce976f9edc442402184837b9541a1ced, type: 3}
+      propertyPath: track
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 1584228644670079301, guid: ce976f9edc442402184837b9541a1ced, type: 3}
       propertyPath: m_RootOrder
       value: 3
